@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #46596e;
+}
+h1,h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    background-color: #adcdff;
+}
+h2 {
+    font-size: 25px;
+}
+p {
+    font-size: 18px;
+}
+ol > li, ul > li {
+    font-size: 20px;
+}
+
+ul, ol {
+    background-color: #adcdff;
+    
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
